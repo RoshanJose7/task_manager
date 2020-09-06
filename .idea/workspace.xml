@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c181ae75-475b-4b72-a666-43a75c08a3a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gun6eTXP9IYAdCf5Izp7WQV7PK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.9.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.6.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/playground" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c181ae75-475b-4b72-a666-43a75c08a3a7" name="Default Changelist" comment="" />
+      <created>1598973171009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598973171009</updated>
+      <workItem from="1598973172225" duration="425000" />
+      <workItem from="1598973610731" duration="3000000" />
+      <workItem from="1599015011745" duration="28000" />
+      <workItem from="1599017801709" duration="1514000" />
+      <workItem from="1599022626220" duration="148000" />
+      <workItem from="1599022791791" duration="1343000" />
+      <workItem from="1599058192332" duration="34000" />
+      <workItem from="1599058242976" duration="2337000" />
+      <workItem from="1599061544404" duration="1235000" />
+      <workItem from="1599142821233" duration="3064000" />
+      <workItem from="1599195704339" duration="1386000" />
+      <workItem from="1599198404049" duration="3637000" />
+      <workItem from="1599231406721" duration="4246000" />
+      <workItem from="1599312087802" duration="66000" />
+      <workItem from="1599312235967" duration="2473000" />
+      <workItem from="1599317692605" duration="928000" />
+      <workItem from="1599373540894" duration="3741000" />
+      <workItem from="1599403730454" duration="19000" />
+      <workItem from="1599403765936" duration="4000" />
+      <workItem from="1599403785035" duration="3223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="36" y="9" width="1088" height="748" key="#JavaScript" timestamp="1599197751690">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="36" y="9" width="1088" height="748" key="#JavaScript/0.0.1366.768@0.0.1366.768" timestamp="1599197751690" />
+    <state x="413" y="229" key="#Notifications" timestamp="1599312258218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="229" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1599312258218" />
+    <state x="333" y="187" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599143825139">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="333" y="187" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1599143825139" />
+    <state x="338" y="165" width="679" height="466" key="EditFileWatcherDialog" timestamp="1598976274926">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="338" y="165" width="679" height="466" key="EditFileWatcherDialog/0.0.1366.768@0.0.1366.768" timestamp="1598976274926" />
+    <state x="460" y="156" width="424" height="482" key="FileChooserDialogImpl" timestamp="1598976289689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="460" y="156" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598976289689" />
+    <state width="1141" height="120" key="GridCell.Tab.0.bottom" timestamp="1599312164532">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1141" height="120" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599312164532" />
+    <state width="1141" height="120" key="GridCell.Tab.0.center" timestamp="1599312164532">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1141" height="120" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599312164532" />
+    <state width="1141" height="120" key="GridCell.Tab.0.left" timestamp="1599312164532">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1141" height="120" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599312164532" />
+    <state width="1141" height="120" key="GridCell.Tab.0.right" timestamp="1599312164532">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1141" height="120" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599312164532" />
+    <state x="229" y="27" key="SettingsEditor" timestamp="1599407842805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="229" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599407842805" />
+    <state x="594" y="318" key="cloudConfig.PluginsDialog" timestamp="1599312109143">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="594" y="318" key="cloudConfig.PluginsDialog/0.0.1366.768@0.0.1366.768" timestamp="1599312109143" />
+    <state x="63" y="229" key="run.anything.popup" timestamp="1599404126161">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="63" y="229" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1599404126161" />
+    <state x="154" y="51" width="672" height="678" key="search.everywhere.popup" timestamp="1599018582039">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="154" y="51" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599018582039" />
+  </component>
+</project>

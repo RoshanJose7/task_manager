@@ -1,0 +1,22 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "A simple Task Manager App using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "clear && nodemon src/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.2",
+    "prettier": "^2.1.1",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
